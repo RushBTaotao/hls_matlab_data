@@ -56,6 +56,11 @@ fid=fopen('weight.bin','wb');
 count=fwrite(fid,int16(reshape(weightweight,numel(weight),1)),'int16');
 fclose(fid);
 
+    fl=single(rand(1,10));
+    fid=fopen('bit.bin','wb');
+    count=fwrite(fid,fl,'single');
+    fclose(fid);
+    
 
 
 

@@ -29,42 +29,42 @@
 		<link>
 			<name>source</name>
 			<type>2</type>
-			<location>C:/Users/HT/Desktop/code/conv3/conv3/.apc/.src</location>
+			<location>C:/Users/HT/Desktop/code/hls_matlab_data/conv3/.apc/.src</location>
 		</link>
 		<link>
 			<name>testbench</name>
 			<type>2</type>
-			<location>C:/Users/HT/Desktop/code/conv3/conv3/.apc/.tb</location>
+			<location>C:/Users/HT/Desktop/code/hls_matlab_data/conv3/.apc/.tb</location>
 		</link>
 		<link>
 			<name>solution1/constraints</name>
 			<type>2</type>
-			<location>C:/Users/HT/Desktop/code/conv3/conv3/solution1/.tcls</location>
+			<location>C:/Users/HT/Desktop/code/hls_matlab_data/conv3/solution1/.tcls</location>
 		</link>
 		<link>
 			<name>source/conv3_test.cpp</name>
 			<type>1</type>
-			<location>C:/Users/HT/Desktop/code/conv3/conv3/conv3_test.cpp</location>
+			<location>C:/Users/HT/Desktop/code/hls_matlab_data/conv3/conv3_test.cpp</location>
 		</link>
 		<link>
 			<name>testbench/conv3_tb.cpp</name>
 			<type>1</type>
-			<location>C:/Users/HT/Desktop/code/conv3/conv3/conv3_tb.cpp</location>
+			<location>C:/Users/HT/Desktop/code/hls_matlab_data/conv3/conv3_tb.cpp</location>
 		</link>
 		<link>
 			<name>solution1/constraints/.xml.directive</name>
 			<type>1</type>
-			<location>C:/Users/HT/Desktop/code/conv3/conv3/solution1/solution1.directive</location>
+			<location>C:/Users/HT/Desktop/code/hls_matlab_data/conv3/solution1/solution1.directive</location>
 		</link>
 		<link>
 			<name>solution1/constraints/directives.tcl</name>
 			<type>1</type>
-			<location>C:/Users/HT/Desktop/code/conv3/conv3/solution1/directives.tcl</location>
+			<location>C:/Users/HT/Desktop/code/hls_matlab_data/conv3/solution1/directives.tcl</location>
 		</link>
 		<link>
 			<name>solution1/constraints/script.tcl</name>
 			<type>1</type>
-			<location>C:/Users/HT/Desktop/code/conv3/conv3/solution1/script.tcl</location>
+			<location>C:/Users/HT/Desktop/code/hls_matlab_data/conv3/solution1/script.tcl</location>
 		</link>
 	</linkedResources>
 </projectDescription>

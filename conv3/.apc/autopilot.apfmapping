@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
   <source>
-    <originFiles name="conv3_test.cpp" path="C:\Users\HT\Desktop\code\conv3\conv3\conv3_test.cpp"/>
+    <originFiles name="conv3_test.cpp" path="C:\Users\HT\Desktop\code\hls_matlab_data\conv3\conv3_test.cpp"/>
   </source>
   <testbench>
-    <originFiles name="conv3_tb.cpp" path="C:\Users\HT\Desktop\code\conv3\conv3\conv3_tb.cpp"/>
+    <originFiles name="conv3_tb.cpp" path="C:\Users\HT\Desktop\code\hls_matlab_data\conv3\conv3_tb.cpp"/>
   </testbench>
 </autopilotfilemapping:AutoPilotFileMapping>
